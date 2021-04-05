@@ -1,8 +1,9 @@
+/* This Program will show demo on a simple Calculator*/
 import java.util.Scanner;
 
  public class calculator
   {
-    public static void main(String args[])
+    public Static void main(String[] args)
      {
        float a, b, res;
        char choice, ch;
