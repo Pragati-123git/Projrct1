@@ -3,7 +3,7 @@ import java.util.Scanner;
 
  public class calculator
   {
-    public Static void main(String[] args)
+    public static void main(String[] args)
      {
        float a, b, res;
        char choice, ch;
